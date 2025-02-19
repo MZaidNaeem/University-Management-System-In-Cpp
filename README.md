@@ -1,0 +1,1 @@
+This is my first semester project having 15+ functionalities and it also includes the Portals for Faculty Members, Teachers and Students. It have strong autorization system along with database in the form of file. 
